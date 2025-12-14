@@ -1,0 +1,25 @@
+#main-container {
+  width: 400px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+}
+
+.input-box {
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#output-box {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
